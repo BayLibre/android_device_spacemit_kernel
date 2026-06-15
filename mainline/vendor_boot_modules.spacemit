@@ -1,6 +1,7 @@
+spacemit-ccu.ko
 spacemit-ccu-k1.ko
-reset-spacemit.ko
-pinctrl-k1.ko
+reset-spacemit-common.ko
+reset-spacemit-k1.ko
 gpio-spacemit-k1.ko
 i2c-k1.ko
 simple-mfd-i2c.ko

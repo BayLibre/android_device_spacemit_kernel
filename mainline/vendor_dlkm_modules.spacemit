@@ -3,12 +3,14 @@ spacemit_mipi_panel.ko
 lt8911exb.ko
 lt9711.ko
 raspberrypi_touchscreen.ko
+phy_package.ko
+realtek.ko
 k1_emac.ko
 i2c-k1x.ko
 k1x-spi.ko
 spi-k1x-qspi.ko
 pci-pwrctrl-core.ko
-pci-pwrctrl-slot.ko
+pci-pwrctrl-generic.ko
 pcie-spacemit-k1.ko
 pwm-dwc-k1pro.ko
 k1x-thermal.ko
@@ -21,7 +23,7 @@ dwc3-spacemit.ko
 phy-k1x-ci-usb2.ko
 phy-k1x-ci-otg.ko
 ehci-k1x-ci.ko
-spacemit_onboard_hub.ko
+onboard_usb_dev.ko
 k1x_udc_core.ko
 cam_plat_v2.ko
 cam_ccic_v2.ko

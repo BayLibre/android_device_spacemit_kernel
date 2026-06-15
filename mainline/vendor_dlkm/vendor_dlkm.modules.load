@@ -1,7 +1,7 @@
 kernel/drivers/phy/spacemit/phy-spacemit-k1x-combphy.ko
 kernel/drivers/pwm/pwm-dwc-k1pro.ko
 kernel/drivers/pci/pwrctrl/pci-pwrctrl-core.ko
-kernel/drivers/pci/pwrctrl/pci-pwrctrl-slot.ko
+kernel/drivers/pci/pwrctrl/pci-pwrctrl-generic.ko
 kernel/drivers/pci/controller/dwc/pcie-spacemit-k1.ko
 kernel/drivers/dma/mmp_pdma.ko
 kernel/drivers/gpu/drm/drm_exec.ko
@@ -14,12 +14,14 @@ kernel/drivers/gpu/drm/spacemit/raspberrypi_touchscreen.ko
 kernel/drivers/gpu/drm/imagination/powervr.ko
 kernel/drivers/spi/k1x-spi.ko
 kernel/drivers/spi/spi-k1x-qspi.ko
+kernel/drivers/net/phy/phy_package.ko
+kernel/drivers/net/phy/realtek/realtek.ko
 kernel/drivers/net/ethernet/spacemit/k1_emac.ko
 kernel/drivers/usb/phy/phy-k1x-ci-usb2.ko
 kernel/drivers/usb/phy/phy-k1x-ci-otg.ko
 kernel/drivers/usb/dwc3/dwc3-spacemit.ko
 kernel/drivers/usb/host/ehci-k1x-ci.ko
-kernel/drivers/usb/misc/spacemit_onboard_hub.ko
+kernel/drivers/usb/misc/onboard_usb_dev.ko
 kernel/drivers/usb/gadget/udc/k1x_udc_core.ko
 kernel/drivers/i2c/busses/i2c-k1x.ko
 kernel/drivers/media/platform/spacemit/vpu_k1x/amvx.ko
