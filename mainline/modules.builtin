@@ -185,11 +185,6 @@ kernel/drivers/leds/trigger/ledtrig-transient.ko
 kernel/drivers/pci/controller/pci-host-common.ko
 kernel/drivers/pci/controller/pci-host-generic.ko
 kernel/drivers/video/backlight/backlight.ko
-kernel/drivers/video/fbdev/core/fb.ko
-kernel/drivers/video/fbdev/core/sysfillrect.ko
-kernel/drivers/video/fbdev/core/syscopyarea.ko
-kernel/drivers/video/fbdev/core/sysimgblt.ko
-kernel/drivers/video/fbdev/core/fb_sys_fops.ko
 kernel/drivers/clk/clk-rpmi.ko
 kernel/drivers/dma/virt-dma.ko
 kernel/drivers/soc/spacemit/spacemit_reboot.ko
