@@ -4,15 +4,6 @@ v2d.ko
 spacemit-socinfo.ko
 spacemit-efuse.ko
 spacemit-k1x-reboot.ko
-spacemit_mipi_panel.ko
-lt8911exb.ko
-lt9711.ko
-raspberrypi_touchscreen.ko
-drm_display_helper.ko
-drm_dp_aux_bus.ko
-drm_client_lib.ko
-spacemit_inno_dp.ko
-spacemit-drm-k3.ko
 phy_package.ko
 realtek.ko
 k1_emac.ko

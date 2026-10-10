@@ -11,12 +11,13 @@ spacemit-p1.ko
 sdhci-of-k1.ko
 ufs-spacemit.ko
 phy-k3-usb3.ko
+phy-k3-inno-dp.ko
 fusb301.ko
 rtc-spacemit-p1.ko
 spacemit-p1-reboot.ko
 k1x-dma-range.ko
 spacemit_ddrbw.ko
-drm_dma_helper.ko
-drm_client_lib.ko
+drm_display_helper.ko
+drm_dp_aux_bus.ko
+spacemit-inno-dp.ko
 spacemit-drm.ko
-spacemit_hdmi.ko
